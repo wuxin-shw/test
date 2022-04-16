@@ -4,7 +4,7 @@ public class Users {
     //此处一定要小心,成员变量的名称一定要与表单元素的name属性值一致
     private String uname;
     private int age;
-
+//123
     @Override
     public String toString() {
         return "Users{" +
